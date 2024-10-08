@@ -1,0 +1,19 @@
+{
+  "name": "createpdf",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module",
+  "dependencies": {
+    "bwip-js": "^4.5.1",
+    "canvas": "^2.11.2",
+    "jszip": "^3.10.1",
+    "pdf-lib": "^1.17.1"
+  }
+}
