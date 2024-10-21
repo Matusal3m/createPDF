@@ -121,6 +121,11 @@ export default class Pdf {
     }
 
     const pdfBytes = await pdfDoc.save();
-    await fs.writeFile("./output/sistema-codigos.pdf", pdfBytes);
+    const outputPath = `./output/${csvPath
+      .split("/")
+      .pop()
+      .replace(".csv", "")}.pdf`;
+
+    await fs.writeFile(outputPath, pdfBytes);
   }
 }

@@ -10,21 +10,8 @@ Frios
 1041,presunto fatiado kg
 1042,calabresa perdigão
 
+Hortifruti
 
-1000,Mousse
-1004,rosquinha amarela
-1005,broa
-1006,coca lata original
-1007,coca lata sem açucar
-1008,LIXA PARA PÉS CÔNCAVA
-1009,unidade balão
-1010,pão bola da casa
-1011,PACOTE COM PIRANHINHAS
-1012,coador para café
-1013,SAQUINHO COM ESPECIARIAS
-1014,ENGENHARIA VEICULO MILITAR GOAL KIDS
-1015,CARRINHO WILD WILD RAGING
-1016,DESENTUPIDOR DE FOGÃO
 1017,maracujá kg
 1018,batata inglesa kg
 1019,cebola kg
@@ -38,26 +25,21 @@ Frios
 1027,tomate kg
 1028,alho pequeno
 1029,alho grande
-1030,carne de porco carré
-1031,fígado kg
-1032,carne moida de primeira
-1033,cozidão kg
 1034,beterraba kg
 1035,cenoura kg 
 1036,pimentão kg
-1043,massa de pastel
-1044,bandeja de ovos
-1045,ovos unidades
-1046,sabão 5 litros omo
-1047,sabão 5 litros brilante
-1048,quiboa 5 litros
-1049,pinça depilatória merheje
-1050,esqueiro bic
-1051,esqueiro cricket
-1052,unha postiça
+
+Geladeira
+
+1000,Mousse
+1006,coca lata original
+1007,coca lata sem açucar
+
+Doces e salgadinhos
+
+1004,rosquinha amarela
+1005,broa
 1053,pirulito pop cereja
-1054,bombom sortidos
-1055,bombom pipper
 1056,doce de goiaba
 1057,CHICLETE COM FIGURINHAS BRINQ
 1058,PIRULITO DE CHUPETA MILIONÁRIA
@@ -65,19 +47,62 @@ Frios
 1060,BALINHA DO CORAÇÃO 
 1061,DOCE DE LEITE KICOCADA
 1062,rapadura
-1063,cocó para cabelo
-1064,piranha tamanho normal
-1065,BAND-AID UNIDADE
+1054,bombom sortidos
+1055,bombom pipper
+
+Misturas
+
+1030,carne de porco carré
+1031,fígado kg
+1032,carne moida de primeira
+1033,cozidão kg
+1044,bandeja de ovos
+1045,ovos unidades
+
+Massas
+
+1010,pão bola da casa
+1043,massa de pastel
+
+Infantil
+
+1014,ENGENHARIA VEICULO MILITAR GOAL KIDS
+1015,CARRINHO WILD WILD RAGING
+1075,CHUPETA PARA CRIANÇAS REDONDO
+1076,CHUPETA PARA CRIANÇAS AMASSADO
+1009,unidade balão
+
+Limpeza
+
+1046,sabão 5 litros omo
+1047,sabão 5 litros brilante
+1048,quiboa 5 litros
+1073,DESINFETANTE CASEIRO
+
+Material escolar/escritório
+
 1066,lápis
 1067,caneta azul
 1068,caneta vermelha
 1069,caneta preta
+
+Variados
+
+1008,LIXA PARA PÉS CÔNCAVA
+1011,PACOTE COM PIRANHINHAS
+1012,coador para café
+1013,SAQUINHO COM ESPECIARIAS
+1016,DESENTUPIDOR DE FOGÃO
+1049,pinça depilatória merheje
+1050,esqueiro bic
+1051,esqueiro cricket
+1052,unha postiça
+1063,cocó para cabelo
+1064,piranha tamanho normal
+1065,BAND-AID UNIDADE
 1070,PILHA RAYOVAC AAA (FINA)
 1071,PILHA RAYOVAC AA (GROSSA)
 1072,TUBO DE LINHA GABRIELINHA
-1073,DESINFETANTE CASEIRO
 1074,LIGUINHA DE PACOTE
-1075,CHUPETA PARA CRIANÇAS REDONDO
-1076,CHUPETA PARA CRIANÇAS AMASSADO
 1077,BOTIJÃO DE GÁS CHEIO
 1078,BOTIJÃO DE GÁS SECO
